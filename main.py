@@ -19,6 +19,10 @@ LETTER_COLORS = {
     3: ()
 }
 
+def load_from_file():
+    pass
+    
+
 # NOUNS = load_from_file("words.txt")
 # NORMAL_WORDS = load_from_file("")
 
