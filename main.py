@@ -4,7 +4,7 @@ import pygame
 import sys
 
 pygame.init()
-
+# пробный текст
 SIZE = (650, 500)
 screen = pygame.display.set_mode(SIZE)
 pygame.display.set_caption("5 букв")
